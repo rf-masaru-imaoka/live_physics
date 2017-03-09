@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 202932f5a44c9e74c887b7d07b609c59
+timeCreated: 1486885012
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chr112_1_yaginuma_io_head
+    100002: cos10071121_buxom_yaginuma_io
+    100004: F_Lip_Un_Center
+    100006: F_Lip_Un_L1a
+    100008: F_Lip_Un_L2a
+    100010: F_Lip_Un_L3a
+    100012: F_Lip_Un_R1a
+    100014: F_Lip_Un_R2a
+    100016: F_Lip_Un_R3a
+    100018: F_Lip_Up_Center
+    100020: F_Lip_Up_L1a
+    100022: F_Lip_Up_L2a
+    100024: F_Lip_Up_L3a
+    100026: F_Lip_Up_R1a
+    100028: F_Lip_Up_R2a
+    100030: F_Lip_Up_R3a
+    100032: F_Teeth_Un
+    100034: F_Teeth_Up
+    100036: F_Tongue
+    100038: Head
+    100040: Hips
+    100042: Left_Arm
+    100044: Left_Arm_Auxiliary
+    100046: Left_Foot
+    100048: Left_Fore_Arm
+    100050: Left_Hand
+    100052: Left_Hand_Auxiliary
+    100054: Left_Hand_Index1
+    100056: Left_Hand_Index2
+    100058: Left_Hand_Index3
+    100060: Left_Hand_Index4
+    100062: Left_Hand_Middle1
+    100064: Left_Hand_Middle2
+    100066: Left_Hand_Middle3
+    100068: Left_Hand_Middle4
+    100070: Left_Hand_Pinky1
+    100072: Left_Hand_Pinky2
+    100074: Left_Hand_Pinky3
+    100076: Left_Hand_Pinky4
+    100078: Left_Hand_Ring1
+    100080: Left_Hand_Ring2
+    100082: Left_Hand_Ring3
+    100084: Left_Hand_Ring4
+    100086: Left_Hand_Thumb1
+    100088: Left_Hand_Thumb2
+    100090: Left_Hand_Thumb3
+    100092: Left_Leg
+    100094: Left_Shoulder
+    100096: Left_Toe_Base
+    100098: Left_Up_Leg
+    100100: md_Cheek
+    100102: md_Eye
+    100104: md_Eyebrow
+    100106: md_Face
+    100108: md_Face_parts
+    100110: md_front
+    100112: md_Hair
+    100114: md_Head
+    100116: md_Mouth
+    100118: md_Tongue
+    100120: md_Tooth_under
+    100122: md_Tooth_up
+    100124: Neck
+    100126: P_Breast
+    100128: P_Cos_B_Skirt1
+    100130: P_Cos_B_Skirt2
+    100132: P_Cos_F_Skirt1
+    100134: P_Cos_F_Skirt2
+    100136: P_Cos_L_B_Skirt1
+    100138: P_Cos_L_B_Skirt2
+    100140: P_Cos_L_F_Skirt1
+    100142: P_Cos_L_F_Skirt2
+    100144: P_Cos_L_S_Skirt1
+    100146: P_Cos_L_S_Skirt2
+    100148: P_Cos_R_B_Skirt1
+    100150: P_Cos_R_B_Skirt2
+    100152: P_Cos_R_F_Skirt1
+    100154: P_Cos_R_F_Skirt2
+    100156: P_Cos_R_S_Skirt1
+    100158: P_Cos_R_S_Skirt2
+    100160: P_Hair_Back
+    100162: P_Hair_Back1
+    100164: P_Hair_Back2
+    100166: P_Hair_Back3
+    100168: P_Hair_Back4
+    100170: P_Hair_Bang_Left
+    100172: P_Hair_Bang_Right
+    100174: P_Hair_Left
+    100176: P_Hair_Left1
+    100178: P_Hair_Left2
+    100180: P_Hair_Right
+    100182: P_Hair_Right1
+    100184: P_Hair_Right2
+    100186: Reference
+    100188: Right_Arm
+    100190: Right_Arm_Auxiliary
+    100192: Right_Foot
+    100194: Right_Fore_Arm
+    100196: Right_Hand
+    100198: Right_Hand_Auxiliary
+    100200: Right_Hand_Index1
+    100202: Right_Hand_Index2
+    100204: Right_Hand_Index3
+    100206: Right_Hand_Index4
+    100208: Right_Hand_Middle1
+    100210: Right_Hand_Middle2
+    100212: Right_Hand_Middle3
+    100214: Right_Hand_Middle4
+    100216: Right_Hand_Pinky1
+    100218: Right_Hand_Pinky2
+    100220: Right_Hand_Pinky3
+    100222: Right_Hand_Pinky4
+    100224: Right_Hand_Ring1
+    100226: Right_Hand_Ring2
+    100228: Right_Hand_Ring3
+    100230: Right_Hand_Ring4
+    100232: Right_Hand_Thumb1
+    100234: Right_Hand_Thumb2
+    100236: Right_Hand_Thumb3
+    100238: Right_Leg
+    100240: Right_Shoulder
+    100242: Right_Toe_Base
+    100244: Right_Up_Leg
+    100246: Spine
+    100248: Spine1
+    100250: Spine2
+    100252: //RootNode
+    400000: chr112_1_yaginuma_io_head
+    400002: cos10071121_buxom_yaginuma_io
+    400004: F_Lip_Un_Center
+    400006: F_Lip_Un_L1a
+    400008: F_Lip_Un_L2a
+    400010: F_Lip_Un_L3a
+    400012: F_Lip_Un_R1a
+    400014: F_Lip_Un_R2a
+    400016: F_Lip_Un_R3a
+    400018: F_Lip_Up_Center
+    400020: F_Lip_Up_L1a
+    400022: F_Lip_Up_L2a
+    400024: F_Lip_Up_L3a
+    400026: F_Lip_Up_R1a
+    400028: F_Lip_Up_R2a
+    400030: F_Lip_Up_R3a
+    400032: F_Teeth_Un
+    400034: F_Teeth_Up
+    400036: F_Tongue
+    400038: Head
+    400040: Hips
+    400042: Left_Arm
+    400044: Left_Arm_Auxiliary
+    400046: Left_Foot
+    400048: Left_Fore_Arm
+    400050: Left_Hand
+    400052: Left_Hand_Auxiliary
+    400054: Left_Hand_Index1
+    400056: Left_Hand_Index2
+    400058: Left_Hand_Index3
+    400060: Left_Hand_Index4
+    400062: Left_Hand_Middle1
+    400064: Left_Hand_Middle2
+    400066: Left_Hand_Middle3
+    400068: Left_Hand_Middle4
+    400070: Left_Hand_Pinky1
+    400072: Left_Hand_Pinky2
+    400074: Left_Hand_Pinky3
+    400076: Left_Hand_Pinky4
+    400078: Left_Hand_Ring1
+    400080: Left_Hand_Ring2
+    400082: Left_Hand_Ring3
+    400084: Left_Hand_Ring4
+    400086: Left_Hand_Thumb1
+    400088: Left_Hand_Thumb2
+    400090: Left_Hand_Thumb3
+    400092: Left_Leg
+    400094: Left_Shoulder
+    400096: Left_Toe_Base
+    400098: Left_Up_Leg
+    400100: md_Cheek
+    400102: md_Eye
+    400104: md_Eyebrow
+    400106: md_Face
+    400108: md_Face_parts
+    400110: md_front
+    400112: md_Hair
+    400114: md_Head
+    400116: md_Mouth
+    400118: md_Tongue
+    400120: md_Tooth_under
+    400122: md_Tooth_up
+    400124: Neck
+    400126: P_Breast
+    400128: P_Cos_B_Skirt1
+    400130: P_Cos_B_Skirt2
+    400132: P_Cos_F_Skirt1
+    400134: P_Cos_F_Skirt2
+    400136: P_Cos_L_B_Skirt1
+    400138: P_Cos_L_B_Skirt2
+    400140: P_Cos_L_F_Skirt1
+    400142: P_Cos_L_F_Skirt2
+    400144: P_Cos_L_S_Skirt1
+    400146: P_Cos_L_S_Skirt2
+    400148: P_Cos_R_B_Skirt1
+    400150: P_Cos_R_B_Skirt2
+    400152: P_Cos_R_F_Skirt1
+    400154: P_Cos_R_F_Skirt2
+    400156: P_Cos_R_S_Skirt1
+    400158: P_Cos_R_S_Skirt2
+    400160: P_Hair_Back
+    400162: P_Hair_Back1
+    400164: P_Hair_Back2
+    400166: P_Hair_Back3
+    400168: P_Hair_Back4
+    400170: P_Hair_Bang_Left
+    400172: P_Hair_Bang_Right
+    400174: P_Hair_Left
+    400176: P_Hair_Left1
+    400178: P_Hair_Left2
+    400180: P_Hair_Right
+    400182: P_Hair_Right1
+    400184: P_Hair_Right2
+    400186: Reference
+    400188: Right_Arm
+    400190: Right_Arm_Auxiliary
+    400192: Right_Foot
+    400194: Right_Fore_Arm
+    400196: Right_Hand
+    400198: Right_Hand_Auxiliary
+    400200: Right_Hand_Index1
+    400202: Right_Hand_Index2
+    400204: Right_Hand_Index3
+    400206: Right_Hand_Index4
+    400208: Right_Hand_Middle1
+    400210: Right_Hand_Middle2
+    400212: Right_Hand_Middle3
+    400214: Right_Hand_Middle4
+    400216: Right_Hand_Pinky1
+    400218: Right_Hand_Pinky2
+    400220: Right_Hand_Pinky3
+    400222: Right_Hand_Pinky4
+    400224: Right_Hand_Ring1
+    400226: Right_Hand_Ring2
+    400228: Right_Hand_Ring3
+    400230: Right_Hand_Ring4
+    400232: Right_Hand_Thumb1
+    400234: Right_Hand_Thumb2
+    400236: Right_Hand_Thumb3
+    400238: Right_Leg
+    400240: Right_Shoulder
+    400242: Right_Toe_Base
+    400244: Right_Up_Leg
+    400246: Spine
+    400248: Spine1
+    400250: Spine2
+    400252: //RootNode
+    4300000: md_Eye
+    4300002: md_Eyebrow
+    4300004: md_Cheek
+    4300006: md_Tongue
+    4300008: md_Tooth_up
+    4300010: md_Tooth_under
+    4300012: md_Face
+    4300014: md_front
+    4300016: cos10071121_buxom_yaginuma_io
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: cos10071121_buxom_yaginuma_io
+    13700002: md_Cheek
+    13700004: md_Eye
+    13700006: md_Eyebrow
+    13700008: md_Face
+    13700010: md_front
+    13700012: md_Tongue
+    13700014: md_Tooth_under
+    13700016: md_Tooth_up
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: chr112_1_yaginuma_io_head
+        weight: 1
+      - path: chr112_1_yaginuma_io_head/md_Face_parts
+        weight: 1
+      - path: chr112_1_yaginuma_io_head/md_Face_parts/md_Cheek
+        weight: 1
+      - path: chr112_1_yaginuma_io_head/md_Face_parts/md_Eye
+        weight: 1
+      - path: chr112_1_yaginuma_io_head/md_Face_parts/md_Eyebrow
+        weight: 1
+      - path: chr112_1_yaginuma_io_head/md_Face_parts/md_Mouth
+        weight: 1
+      - path: chr112_1_yaginuma_io_head/md_Face_parts/md_Mouth/md_Tongue
+        weight: 1
+      - path: chr112_1_yaginuma_io_head/md_Face_parts/md_Mouth/md_Tooth_under
+        weight: 1
+      - path: chr112_1_yaginuma_io_head/md_Face_parts/md_Mouth/md_Tooth_up
+        weight: 1
+      - path: chr112_1_yaginuma_io_head/md_Head
+        weight: 1
+      - path: chr112_1_yaginuma_io_head/md_Head/md_Face
+        weight: 1
+      - path: chr112_1_yaginuma_io_head/md_Head/md_Hair
+        weight: 1
+      - path: chr112_1_yaginuma_io_head/md_Head/md_Hair/md_front
+        weight: 1
+      - path: cos10071121_buxom_yaginuma_io
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/Left_Up_Leg
+        weight: 1
+      - path: Reference/Hips/Left_Up_Leg/Left_Leg
+        weight: 1
+      - path: Reference/Hips/Left_Up_Leg/Left_Leg/Left_Foot
+        weight: 1
+      - path: Reference/Hips/Left_Up_Leg/Left_Leg/Left_Foot/Left_Toe_Base
+        weight: 1
+      - path: Reference/Hips/P_Cos_B_Skirt1
+        weight: 1
+      - path: Reference/Hips/P_Cos_B_Skirt1/P_Cos_B_Skirt2
+        weight: 1
+      - path: Reference/Hips/P_Cos_F_Skirt1
+        weight: 1
+      - path: Reference/Hips/P_Cos_F_Skirt1/P_Cos_F_Skirt2
+        weight: 1
+      - path: Reference/Hips/P_Cos_L_B_Skirt1
+        weight: 1
+      - path: Reference/Hips/P_Cos_L_B_Skirt1/P_Cos_L_B_Skirt2
+        weight: 1
+      - path: Reference/Hips/P_Cos_L_F_Skirt1
+        weight: 1
+      - path: Reference/Hips/P_Cos_L_F_Skirt1/P_Cos_L_F_Skirt2
+        weight: 1
+      - path: Reference/Hips/P_Cos_L_S_Skirt1
+        weight: 1
+      - path: Reference/Hips/P_Cos_L_S_Skirt1/P_Cos_L_S_Skirt2
+        weight: 1
+      - path: Reference/Hips/P_Cos_R_B_Skirt1
+        weight: 1
+      - path: Reference/Hips/P_Cos_R_B_Skirt1/P_Cos_R_B_Skirt2
+        weight: 1
+      - path: Reference/Hips/P_Cos_R_F_Skirt1
+        weight: 1
+      - path: Reference/Hips/P_Cos_R_F_Skirt1/P_Cos_R_F_Skirt2
+        weight: 1
+      - path: Reference/Hips/P_Cos_R_S_Skirt1
+        weight: 1
+      - path: Reference/Hips/P_Cos_R_S_Skirt1/P_Cos_R_S_Skirt2
+        weight: 1
+      - path: Reference/Hips/Right_Up_Leg
+        weight: 1
+      - path: Reference/Hips/Right_Up_Leg/Right_Leg
+        weight: 1
+      - path: Reference/Hips/Right_Up_Leg/Right_Leg/Right_Foot
+        weight: 1
+      - path: Reference/Hips/Right_Up_Leg/Right_Leg/Right_Foot/Right_Toe_Base
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Arm_Auxiliary
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Index1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Index1/Left_Hand_Index2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Index1/Left_Hand_Index2/Left_Hand_Index3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Index1/Left_Hand_Index2/Left_Hand_Index3/Left_Hand_Index4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Middle1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Middle1/Left_Hand_Middle2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Middle1/Left_Hand_Middle2/Left_Hand_Middle3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Middle1/Left_Hand_Middle2/Left_Hand_Middle3/Left_Hand_Middle4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Pinky1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Pinky1/Left_Hand_Pinky2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Pinky1/Left_Hand_Pinky2/Left_Hand_Pinky3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Pinky1/Left_Hand_Pinky2/Left_Hand_Pinky3/Left_Hand_Pinky4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Ring1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Ring1/Left_Hand_Ring2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Ring1/Left_Hand_Ring2/Left_Hand_Ring3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Ring1/Left_Hand_Ring2/Left_Hand_Ring3/Left_Hand_Ring4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Thumb1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Thumb1/Left_Hand_Thumb2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand/Left_Hand_Thumb1/Left_Hand_Thumb2/Left_Hand_Thumb3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Left_Shoulder/Left_Arm/Left_Fore_Arm/Left_Hand_Auxiliary
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Un_Center
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Un_L1a
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Un_L2a
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Un_L3a
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Un_R1a
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Un_R2a
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Un_R3a
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Up_Center
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Up_L1a
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Up_L2a
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Up_L3a
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Up_R1a
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Up_R2a
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Lip_Up_R3a
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Teeth_Un
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Teeth_Up
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/F_Tongue
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Back
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Back/P_Hair_Back1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Back/P_Hair_Back1/P_Hair_Back2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Back/P_Hair_Back1/P_Hair_Back2/P_Hair_Back3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Back/P_Hair_Back1/P_Hair_Back2/P_Hair_Back3/P_Hair_Back4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Bang_Left
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Bang_Right
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Left
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Left/P_Hair_Left1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Left/P_Hair_Left1/P_Hair_Left2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Right
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Right/P_Hair_Right1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head/P_Hair_Right/P_Hair_Right1/P_Hair_Right2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/P_Breast
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Arm_Auxiliary
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Index1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Index1/Right_Hand_Index2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Index1/Right_Hand_Index2/Right_Hand_Index3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Index1/Right_Hand_Index2/Right_Hand_Index3/Right_Hand_Index4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Middle1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Middle1/Right_Hand_Middle2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Middle1/Right_Hand_Middle2/Right_Hand_Middle3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Middle1/Right_Hand_Middle2/Right_Hand_Middle3/Right_Hand_Middle4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Pinky1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Pinky1/Right_Hand_Pinky2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Pinky1/Right_Hand_Pinky2/Right_Hand_Pinky3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Pinky1/Right_Hand_Pinky2/Right_Hand_Pinky3/Right_Hand_Pinky4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Ring1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Ring1/Right_Hand_Ring2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Ring1/Right_Hand_Ring2/Right_Hand_Ring3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Ring1/Right_Hand_Ring2/Right_Hand_Ring3/Right_Hand_Ring4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Thumb1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Thumb1/Right_Hand_Thumb2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand/Right_Hand_Thumb1/Right_Hand_Thumb2/Right_Hand_Thumb3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine1/Spine2/Right_Shoulder/Right_Arm/Right_Fore_Arm/Right_Hand_Auxiliary
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
